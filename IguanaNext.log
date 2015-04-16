@@ -1,0 +1,320 @@
+2015-15-04 12:26:59  INFO main Web:test1:51 - test-qa - was inputed into Login field
+2015-15-04 12:29:51  INFO main Web:test1:50 - test-qa - was inputed into Login field
+2015-15-04 13:58:32  INFO main Web:test1:59 - 123456aA - was inputed into Password field
+2015-15-04 13:59:36  INFO main Web:test1:53 - test-qa - was inputed into Login field
+2015-15-04 13:59:36  INFO main Web:test1:59 - 123456aA - was inputed into Password field
+2015-15-04 14:01:47  INFO main Web:test1:53 - test-qa - was inputed into Login field
+2015-15-04 14:01:47  INFO main Web:test1:59 - 123456aA - was inputed into Password field
+2015-15-04 14:01:47  INFO main Web:test1:64 - User press ENTER
+2015-15-04 14:02:41  INFO main Web:test1:53 - test-qa - was inputed into Login field
+2015-15-04 14:02:41  INFO main Web:test1:59 - 123456aA - was inputed into Password field
+2015-15-04 14:02:41  INFO main Web:test1:64 - User press ENTER
+2015-15-04 14:02:42  INFO main Web:test1:68 - Login was correct
+2015-15-04 14:13:39  INFO main Web:test1:53 - test-qa - was inputed into Login field
+2015-15-04 14:13:39  INFO main Web:test1:59 - 123456aA - was inputed into Password field
+2015-15-04 14:13:39  INFO main Web:test1:64 - User press ENTER
+2015-15-04 14:13:40  INFO main Web:test1:68 - Login was correct
+2015-15-04 14:22:19  INFO main Web:test1:53 - test-qa - was inputed into Login field
+2015-15-04 14:22:19  INFO main Web:test1:59 - 123456aA - was inputed into Password field
+2015-15-04 14:22:19  INFO main Web:test1:64 - User press ENTER
+2015-15-04 14:22:20  INFO main Web:test1:68 - Login was correct
+2015-15-04 14:24:47  INFO main Web:test1:53 - test-qa - was inputed into Login field
+2015-15-04 14:24:47  INFO main Web:test1:59 - 123456aA - was inputed into Password field
+2015-15-04 14:24:47  INFO main Web:test1:64 - User press ENTER
+2015-15-04 14:24:47  INFO main Web:test1:68 - Login was correct
+2015-15-04 14:24:48  INFO main Web:test1:75 - Enter in search field ConsumerNumber - 380632106446
+2015-15-04 14:24:48  INFO main Web:test1:77 - User press ENTER
+2015-15-04 14:29:44  INFO main Web:test1:53 - test-qa - was inputed into Login field
+2015-15-04 14:29:44  INFO main Web:test1:59 - 123456aA - was inputed into Password field
+2015-15-04 14:29:44  INFO main Web:test1:64 - User press ENTER
+2015-15-04 14:29:44  INFO main Web:test1:68 - Login was correct
+2015-15-04 14:29:45  INFO main Web:test1:75 - Enter in search field ConsumerNumber - 380632106446
+2015-15-04 14:29:45  INFO main Web:test1:77 - User press ENTER on search field
+2015-15-04 14:29:47 ERROR main Web:test1:88 - Search result by ConsumerNumber is incorrect!
+2015-15-04 14:29:48 ERROR main Web:test1:95 - Search result by UniqueNumber is incorrect!
+2015-15-04 14:29:48 ERROR main Web:test1:102 - Search result by SIMNumber is incorrect!
+2015-15-04 14:31:22  INFO main Web:test1:53 - test-qa - was inputed into Login field
+2015-15-04 14:31:22  INFO main Web:test1:59 - 123456aA - was inputed into Password field
+2015-15-04 14:31:22  INFO main Web:test1:64 - User press ENTER
+2015-15-04 14:31:23  INFO main Web:test1:68 - Login was correct
+2015-15-04 14:31:24  INFO main Web:test1:75 - Enter in search field ConsumerNumber - 380632106446
+2015-15-04 14:31:24  INFO main Web:test1:77 - User press ENTER on search field
+2015-15-04 14:31:26 ERROR main Web:test1:88 - Search result by ConsumerNumber is incorrect!
+2015-15-04 14:31:26 ERROR main Web:test1:95 - Search result by UniqueNumber is incorrect!
+2015-15-04 14:31:26 ERROR main Web:test1:102 - Search result by SIMNumber is incorrect!
+2015-15-04 14:33:55  INFO main Web:test1:53 - test-qa - was inputed into Login field
+2015-15-04 14:33:55  INFO main Web:test1:59 - 123456aA - was inputed into Password field
+2015-15-04 14:33:55  INFO main Web:test1:64 - User press ENTER
+2015-15-04 14:33:56  INFO main Web:test1:68 - Login was correct
+2015-15-04 14:33:56  INFO main Web:test1:75 - Enter in search field ConsumerNumber - 380632106446
+2015-15-04 14:33:57  INFO main Web:test1:77 - User press ENTER on search field
+2015-15-04 14:33:58 ERROR main Web:test1:88 - Search result by ConsumerNumber is incorrect!
+2015-15-04 14:33:59 ERROR main Web:test1:95 - Search result by UniqueNumber is incorrect!
+2015-15-04 14:33:59 ERROR main Web:test1:102 - Search result by SIMNumber is incorrect!
+2015-15-04 14:33:59 ERROR main Web:test1:109 - Search by phone number was incorrect
+2015-15-04 14:40:59  INFO main Web:test1:53 - test-qa - was inputed into Login field
+2015-15-04 14:41:00  INFO main Web:test1:59 - 123456aA - was inputed into Password field
+2015-15-04 14:41:00  INFO main Web:test1:64 - User press ENTER
+2015-15-04 14:41:00  INFO main Web:test1:68 - Login was correct
+2015-15-04 14:41:01  INFO main Web:test1:75 - Enter in search field ConsumerNumber - 380632106446
+2015-15-04 14:41:01  INFO main Web:test1:77 - User press ENTER on search field
+2015-15-04 14:41:03 ERROR main Web:test1:88 - Search result by ConsumerNumber is incorrect!
+2015-15-04 14:41:04 ERROR main Web:test1:95 - Search result by UniqueNumber is incorrect!
+2015-15-04 14:41:04 ERROR main Web:test1:102 - Search result by SIMNumber is incorrect!
+2015-15-04 14:41:04 ERROR main Web:test1:109 - Search by phone number was incorrect
+2015-15-04 14:42:56  INFO main Web:test1:53 - test-qa - was inputed into Login field
+2015-15-04 14:42:56  INFO main Web:test1:59 - 123456aA - was inputed into Password field
+2015-15-04 14:42:56  INFO main Web:test1:64 - User press ENTER
+2015-15-04 14:42:57  INFO main Web:test1:68 - Login was correct
+2015-15-04 14:42:58  INFO main Web:test1:75 - Enter in search field ConsumerNumber - 380632106446
+2015-15-04 14:42:58  INFO main Web:test1:77 - User press ENTER on search field
+2015-15-04 14:43:00 ERROR main Web:test1:88 - Search result by ConsumerNumber is incorrect!
+2015-15-04 14:43:00 ERROR main Web:test1:95 - Search result by UniqueNumber is incorrect!
+2015-15-04 14:43:00 ERROR main Web:test1:102 - Search result by SIMNumber is incorrect!
+2015-15-04 14:43:00 ERROR main Web:test1:109 - Search by phone number was incorrect
+2015-15-04 14:44:38  INFO main Web:test1:53 - test-qa - was inputed into Login field
+2015-15-04 14:44:38  INFO main Web:test1:59 - 123456aA - was inputed into Password field
+2015-15-04 14:44:38  INFO main Web:test1:64 - User press ENTER
+2015-15-04 14:44:38  INFO main Web:test1:68 - Login was correct
+2015-15-04 14:44:39  INFO main Web:test1:75 - Enter in search field ConsumerNumber - 380632106446
+2015-15-04 14:44:40  INFO main Web:test1:77 - User press ENTER on search field
+2015-15-04 14:44:41 ERROR main Web:test1:88 - Search result by ConsumerNumber is incorrect!
+2015-15-04 14:44:42 ERROR main Web:test1:95 - Search result by UniqueNumber is incorrect!
+2015-15-04 14:44:42 ERROR main Web:test1:102 - Search result by SIMNumber is incorrect!
+2015-15-04 14:44:42 ERROR main Web:test1:109 - Search by phone number was incorrect
+2015-15-04 14:45:32  INFO main Web:test1:53 - test-qa - was inputed into Login field
+2015-15-04 14:45:32  INFO main Web:test1:59 - 123456aA - was inputed into Password field
+2015-15-04 14:45:32  INFO main Web:test1:64 - User press ENTER
+2015-15-04 14:45:32  INFO main Web:test1:68 - Login was correct
+2015-15-04 14:45:33  INFO main Web:test1:75 - Enter in search field ConsumerNumber - 380632106446
+2015-15-04 14:45:33  INFO main Web:test1:77 - User press ENTER on search field
+2015-15-04 14:45:35 ERROR main Web:test1:90 - Search result by ConsumerNumber is incorrect!
+2015-15-04 14:45:36 ERROR main Web:test1:97 - Search result by UniqueNumber is incorrect!
+2015-15-04 14:45:36 ERROR main Web:test1:104 - Search result by SIMNumber is incorrect!
+2015-15-04 14:45:36 ERROR main Web:test1:111 - Search by phone number was incorrect
+2015-15-04 14:49:57  INFO main Web:test1:53 - test-qa - was inputed into Login field
+2015-15-04 14:49:57  INFO main Web:test1:59 - 123456aA - was inputed into Password field
+2015-15-04 14:49:57  INFO main Web:test1:64 - User press ENTER
+2015-15-04 14:49:57  INFO main Web:test1:68 - Login was correct
+2015-15-04 14:49:58  INFO main Web:test1:75 - Enter in search field ConsumerNumber - 380632106446
+2015-15-04 14:49:59  INFO main Web:test1:77 - User press ENTER on search field
+2015-15-04 14:50:00 ERROR main Web:test1:93 - Search result by ConsumerNumber is incorrect!
+2015-15-04 14:50:01 ERROR main Web:test1:100 - Search result by UniqueNumber is incorrect!
+2015-15-04 14:50:01 ERROR main Web:test1:107 - Search result by SIMNumber is incorrect!
+2015-15-04 14:50:01 ERROR main Web:test1:114 - Search by phone number was incorrect
+2015-15-04 14:59:17  INFO main Web:test1:53 - test-qa - was inputed into Login field
+2015-15-04 14:59:17  INFO main Web:test1:59 - 123456aA - was inputed into Password field
+2015-15-04 14:59:17  INFO main Web:test1:64 - User press ENTER
+2015-15-04 14:59:17  INFO main Web:test1:68 - Login was correct
+2015-15-04 14:59:18  INFO main Web:test1:79 - Enter in search field ConsumerNumber - 380632106446
+2015-15-04 14:59:19  INFO main Web:test1:81 - User press ENTER on search field
+2015-15-04 14:59:20 ERROR main Web:test1:97 - Search result by ConsumerNumber is incorrect!
+2015-15-04 14:59:21 ERROR main Web:test1:104 - Search result by UniqueNumber is incorrect!
+2015-15-04 14:59:21 ERROR main Web:test1:111 - Search result by SIMNumber is incorrect!
+2015-15-04 14:59:21 ERROR main Web:test1:118 - Search by phone number was incorrect
+2015-15-04 15:07:22  INFO main Web:test1:51 - test-qa - was inputed into Login field
+2015-15-04 15:07:22  INFO main Web:test1:57 - 123456aA - was inputed into Password field
+2015-15-04 15:07:22  INFO main Web:test1:62 - User press ENTER
+2015-15-04 15:07:23  INFO main Web:test1:66 - Login was correct
+2015-15-04 15:07:24  INFO main Web:test1:80 - Enter in search field ConsumerNumber - 380632106446
+2015-15-04 15:07:24  INFO main Web:test1:82 - User press ENTER on search field
+2015-15-04 15:07:26 ERROR main Web:test1:98 - Search result by ConsumerNumber is incorrect!
+2015-15-04 15:07:26 ERROR main Web:test1:105 - Search result by UniqueNumber is incorrect!
+2015-15-04 15:07:26 ERROR main Web:test1:112 - Search result by SIMNumber is incorrect!
+2015-15-04 15:07:26 ERROR main Web:test1:119 - Search by phone number was incorrect
+2015-15-04 15:08:07  INFO main Web:test1:51 - test-qa - was inputed into Login field
+2015-15-04 15:08:07  INFO main Web:test1:57 - 123456aA - was inputed into Password field
+2015-15-04 15:08:07  INFO main Web:test1:62 - User press ENTER
+2015-15-04 15:08:08  INFO main Web:test1:66 - Login was correct
+2015-15-04 15:08:09  INFO main Web:test1:81 - Enter in search field ConsumerNumber - 380632106446
+2015-15-04 15:08:09  INFO main Web:test1:83 - User press ENTER on search field
+2015-15-04 15:08:11 ERROR main Web:test1:99 - Search result by ConsumerNumber is incorrect!
+2015-15-04 15:08:11 ERROR main Web:test1:106 - Search result by UniqueNumber is incorrect!
+2015-15-04 15:08:11 ERROR main Web:test1:113 - Search result by SIMNumber is incorrect!
+2015-15-04 15:08:11 ERROR main Web:test1:120 - Search by phone number was incorrect
+2015-15-04 16:24:19  INFO main Web:test1:51 - test-qa - was inputed into Login field
+2015-15-04 16:24:19  INFO main Web:test1:57 - 123456aA - was inputed into Password field
+2015-15-04 16:24:19  INFO main Web:test1:62 - User press ENTER
+2015-15-04 16:24:19  INFO main Web:test1:66 - Login was correct
+2015-15-04 16:24:20  INFO main Web:test1:74 - Enter in search field ConsumerNumber - 380632106446
+2015-15-04 16:24:20  INFO main Web:test1:76 - User press ENTER on search field
+2015-15-04 16:24:22 ERROR main Web:test1:92 - Search result by ConsumerNumber is incorrect!
+2015-15-04 16:24:23 ERROR main Web:test1:99 - Search result by UniqueNumber is incorrect!
+2015-15-04 16:24:23 ERROR main Web:test1:106 - Search result by SIMNumber is incorrect!
+2015-15-04 16:24:23 ERROR main Web:test1:113 - Search by phone number was incorrect
+2015-15-04 16:25:45  INFO main Web:test1:51 - test-qa - was inputed into Login field
+2015-15-04 16:25:45  INFO main Web:test1:57 - 123456aA - was inputed into Password field
+2015-15-04 16:25:45  INFO main Web:test1:62 - User press ENTER
+2015-15-04 16:25:46  INFO main Web:test1:66 - Login was correct
+2015-15-04 16:25:47  INFO main Web:test1:74 - Enter in search field ConsumerNumber - 380632106446
+2015-15-04 16:25:47  INFO main Web:test1:76 - User press ENTER on search field
+2015-15-04 16:25:49 ERROR main Web:test1:92 - Search result by ConsumerNumber is incorrect!
+2015-15-04 16:25:49 ERROR main Web:test1:99 - Search result by UniqueNumber is incorrect!
+2015-15-04 16:25:49 ERROR main Web:test1:106 - Search result by SIMNumber is incorrect!
+2015-15-04 16:25:49 ERROR main Web:test1:113 - Search by phone number was incorrect
+2015-15-04 16:25:52 ERROR main Web:test1:126 - Search by document number was incorrect!
+2015-15-04 16:28:09  INFO main Web:test1:51 - test-qa - was inputed into Login field
+2015-15-04 16:28:09  INFO main Web:test1:57 - 123456aA - was inputed into Password field
+2015-15-04 16:28:09  INFO main Web:test1:62 - User press ENTER
+2015-15-04 16:28:09  INFO main Web:test1:66 - Login was correct
+2015-15-04 16:28:10  INFO main Web:test1:74 - Enter in search field ConsumerNumber - 380632106446
+2015-15-04 16:28:10  INFO main Web:test1:76 - User press ENTER on search field
+2015-15-04 16:28:12 ERROR main Web:test1:92 - Search result by ConsumerNumber is incorrect!
+2015-15-04 16:28:13 ERROR main Web:test1:99 - Search result by UniqueNumber is incorrect!
+2015-15-04 16:28:13 ERROR main Web:test1:106 - Search result by SIMNumber is incorrect!
+2015-15-04 16:28:13 ERROR main Web:test1:113 - Search by phone number was incorrect
+2015-15-04 16:28:17 ERROR main Web:test1:126 - Search by document number was incorrect!
+2015-15-04 16:36:09  INFO main Web:test1:51 - test-qa - was inputed into Login field
+2015-15-04 16:36:09  INFO main Web:test1:57 - 123456aA - was inputed into Password field
+2015-15-04 16:36:09  INFO main Web:test1:62 - User press ENTER
+2015-15-04 16:36:10  INFO main Web:test1:66 - Login was correct
+2015-15-04 16:36:10  INFO main Web:test1:73 - Enter in search field ConsumerNumber - 380632106446
+2015-15-04 16:36:11  INFO main Web:test1:75 - User press ENTER on search field
+2015-15-04 16:36:13 ERROR main Web:test1:93 - Search result by ConsumerNumber is incorrect!
+2015-15-04 16:36:13 ERROR main Web:test1:100 - Search result by UniqueNumber is incorrect!
+2015-15-04 16:36:13 ERROR main Web:test1:107 - Search result by SIMNumber is incorrect!
+2015-15-04 16:36:13 ERROR main Web:test1:114 - Search by phone number was incorrect
+2015-15-04 16:36:17 ERROR main Web:test1:127 - Search by document number was incorrect!
+2015-15-04 16:39:19  INFO main Web:test1:51 - test-qa - was inputed into Login field
+2015-15-04 16:39:19  INFO main Web:test1:57 - 123456aA - was inputed into Password field
+2015-15-04 16:39:19  INFO main Web:test1:62 - User press ENTER
+2015-15-04 16:39:20  INFO main Web:test1:66 - Login was correct
+2015-15-04 16:39:21  INFO main Web:test1:73 - Enter in search field ConsumerNumber - 380632106446
+2015-15-04 16:39:21  INFO main Web:test1:75 - User press ENTER on search field
+2015-15-04 16:41:31  INFO main Web:test1:51 - test-qa - was inputed into Login field
+2015-15-04 16:41:31  INFO main Web:test1:57 - 123456aA - was inputed into Password field
+2015-15-04 16:41:31  INFO main Web:test1:62 - User press ENTER
+2015-15-04 16:41:32  INFO main Web:test1:66 - Login was correct
+2015-15-04 16:41:33  INFO main Web:test1:73 - Enter in search field ConsumerNumber - 380632106446
+2015-15-04 16:41:33  INFO main Web:test1:75 - User press ENTER on search field
+2015-15-04 16:43:13  INFO main Web:test1:51 - test-qa - was inputed into Login field
+2015-15-04 16:43:13  INFO main Web:test1:57 - 123456aA - was inputed into Password field
+2015-15-04 16:43:13  INFO main Web:test1:62 - User press ENTER
+2015-15-04 16:43:14  INFO main Web:test1:66 - Login was correct
+2015-15-04 16:43:15  INFO main Web:test1:73 - Enter in search field ConsumerNumber - 380632106446
+2015-15-04 16:43:15  INFO main Web:test1:75 - User press ENTER on search field
+2015-15-04 16:44:15  INFO main Web:test1:51 - test-qa - was inputed into Login field
+2015-15-04 16:44:15  INFO main Web:test1:57 - 123456aA - was inputed into Password field
+2015-15-04 16:44:15  INFO main Web:test1:62 - User press ENTER
+2015-15-04 16:44:16  INFO main Web:test1:66 - Login was correct
+2015-15-04 16:44:17  INFO main Web:test1:73 - Enter in search field ConsumerNumber - 380632106446
+2015-15-04 16:44:17  INFO main Web:test1:75 - User press ENTER on search field
+2015-15-04 16:44:19 ERROR main Web:test1:93 - Search result by ConsumerNumber is incorrect!
+2015-15-04 16:44:19 ERROR main Web:test1:100 - Search result by UniqueNumber is incorrect!
+2015-15-04 16:44:19 ERROR main Web:test1:107 - Search result by SIMNumber is incorrect!
+2015-15-04 16:44:19 ERROR main Web:test1:114 - Search by phone number was incorrect
+2015-15-04 16:44:23 ERROR main Web:test1:127 - Search by document number was incorrect!
+2015-15-04 16:47:31  INFO main Web:test1:51 - test-qa - was inputed into Login field
+2015-15-04 16:47:31  INFO main Web:test1:57 - 123456aA - was inputed into Password field
+2015-15-04 16:47:31  INFO main Web:test1:62 - User press ENTER
+2015-15-04 16:47:31  INFO main Web:test1:66 - Login was correct
+2015-15-04 16:47:32  INFO main Web:test1:73 - Enter in search field ConsumerNumber - 380632106446
+2015-15-04 16:47:32  INFO main Web:test1:75 - User press ENTER on search field
+2015-15-04 16:47:35 ERROR main Web:test1:93 - Search result by ConsumerNumber is incorrect!
+2015-15-04 16:47:35 ERROR main Web:test1:100 - Search result by UniqueNumber is incorrect!
+2015-15-04 16:47:35 ERROR main Web:test1:107 - Search result by SIMNumber is incorrect!
+2015-15-04 16:47:35 ERROR main Web:test1:114 - Search by phone number was incorrect
+2015-15-04 16:47:38 ERROR main Web:test1:127 - Search by document number was incorrect!
+2015-15-04 17:00:30  INFO main Web:test1:51 - test-qa - was inputed into Login field
+2015-15-04 17:00:30  INFO main Web:test1:57 - 123456aA - was inputed into Password field
+2015-15-04 17:00:30  INFO main Web:test1:60 - User press ENTER
+2015-15-04 17:00:31  INFO main Web:test1:63 - Login was correct
+2015-15-04 17:00:31  INFO main Web:test1:76 - Enter in search field ConsumerNumber - 380632106446
+2015-15-04 17:00:32  INFO main Web:test1:78 - User press ENTER on search field
+2015-15-04 17:01:46  INFO main Web:test1:51 - test-qa - was inputed into Login field
+2015-15-04 17:01:46  INFO main Web:test1:57 - 123456aA - was inputed into Password field
+2015-15-04 17:01:46  INFO main Web:test1:60 - User press ENTER
+2015-15-04 17:01:47  INFO main Web:test1:63 - Login was correct
+2015-15-04 17:01:48  INFO main Web:test1:76 - Enter in search field ConsumerNumber - 380632106446
+2015-15-04 17:01:48  INFO main Web:test1:78 - User press ENTER on search field
+2015-15-04 17:01:50 ERROR main Web:test1:94 - Search result by ConsumerNumber is incorrect!
+2015-15-04 17:01:50 ERROR main Web:test1:101 - Search result by UniqueNumber is incorrect!
+2015-15-04 17:01:50 ERROR main Web:test1:108 - Search result by SIMNumber is incorrect!
+2015-15-04 17:01:50 ERROR main Web:test1:115 - Search by phone number was incorrect
+2015-15-04 17:01:54 ERROR main Web:test1:128 - Search by document number was incorrect!
+2015-15-04 17:07:34  INFO main Web:test1:51 - test-qa - was inputed into Login field
+2015-15-04 17:07:34  INFO main Web:test1:57 - 123456aA - was inputed into Password field
+2015-15-04 17:07:34  INFO main Web:test1:60 - User press ENTER
+2015-15-04 17:07:35  INFO main Web:test1:63 - Login was correct
+2015-15-04 17:07:36  INFO main Web:test1:76 - Enter in search field ConsumerNumber - 380632106446
+2015-15-04 17:07:36  INFO main Web:test1:78 - User press ENTER on search field
+2015-15-04 17:07:37 ERROR main Web:test1:92 - Search result by ConsumerNumber is incorrect!
+2015-15-04 17:07:38 ERROR main Web:test1:98 - Search result by UniqueNumber is incorrect!
+2015-15-04 17:07:38 ERROR main Web:test1:104 - Search result by SIMNumber is incorrect!
+2015-15-04 17:07:38 ERROR main Web:test1:110 - Search by phone number was incorrect
+2015-15-04 17:07:41 ERROR main Web:test1:129 - Search by document number was incorrect!
+2015-15-04 17:07:46 ERROR main Web:test1:154 - Unique Contract Number is incorrect!
+2015-15-04 17:07:46 ERROR main Web:test1:160 - Contract Type is incorrect!
+2015-15-04 17:07:46  INFO main Web:test1:178 - User Logout was correct
+2015-15-04 17:08:51  INFO main Web:test1:51 - test-qa - was inputed into Login field
+2015-15-04 17:08:51  INFO main Web:test1:57 - 123456aA - was inputed into Password field
+2015-15-04 17:08:51  INFO main Web:test1:60 - User press ENTER
+2015-15-04 17:08:52  INFO main Web:test1:63 - Login was correct
+2015-15-04 17:08:52  INFO main Web:test1:76 - Enter in search field ConsumerNumber - 380632106446
+2015-15-04 17:08:53  INFO main Web:test1:78 - User press ENTER on search field
+2015-15-04 17:08:54 ERROR main Web:test1:92 - Search result by ConsumerNumber is incorrect!
+2015-15-04 17:08:55 ERROR main Web:test1:98 - Search result by UniqueNumber is incorrect!
+2015-15-04 17:08:55 ERROR main Web:test1:104 - Search result by SIMNumber is incorrect!
+2015-15-04 17:08:55 ERROR main Web:test1:110 - Search by phone number was incorrect
+2015-15-04 17:08:58 ERROR main Web:test1:129 - Search by document number was incorrect!
+2015-15-04 17:09:03 ERROR main Web:test1:154 - Unique Contract Number is incorrect!
+2015-15-04 17:09:03 ERROR main Web:test1:160 - Contract Type is incorrect!
+2015-15-04 17:09:03  INFO main Web:test1:178 - User Logout was correct
+2015-15-04 17:10:27  INFO main Web:test1:51 - test-qa - was inputed into Login field
+2015-15-04 17:10:27  INFO main Web:test1:57 - 123456aA - was inputed into Password field
+2015-15-04 17:10:27  INFO main Web:test1:60 - User press ENTER
+2015-15-04 17:10:28  INFO main Web:test1:63 - Login was correct
+2015-15-04 17:10:29  INFO main Web:test1:76 - Enter in search field ConsumerNumber - 380632106446
+2015-15-04 17:10:29  INFO main Web:test1:78 - User press ENTER on search field
+2015-15-04 17:10:30 ERROR main Web:test1:92 - Search result by ConsumerNumber is incorrect!
+2015-15-04 17:10:31 ERROR main Web:test1:98 - Search result by UniqueNumber is incorrect!
+2015-15-04 17:10:31 ERROR main Web:test1:104 - Search result by SIMNumber is incorrect!
+2015-15-04 17:10:31 ERROR main Web:test1:110 - Search by phone number was incorrect
+2015-15-04 17:10:35 ERROR main Web:test1:129 - Search by document number was incorrect!
+2015-15-04 17:10:39 ERROR main Web:test1:154 - Unique Contract Number is incorrect!
+2015-15-04 17:10:39 ERROR main Web:test1:160 - Contract Type is incorrect!
+2015-15-04 17:10:39  INFO main Web:test1:178 - User Logout was correct
+2015-15-04 17:11:43  INFO main Web:test1:51 - test-qa - was inputed into Login field
+2015-15-04 17:11:43  INFO main Web:test1:57 - 123456aA - was inputed into Password field
+2015-15-04 17:11:43  INFO main Web:test1:60 - User press ENTER
+2015-15-04 17:11:44  INFO main Web:test1:63 - Login was correct
+2015-15-04 17:11:45  INFO main Web:test1:76 - Enter in search field ConsumerNumber - 380632106446
+2015-15-04 17:11:45  INFO main Web:test1:78 - User press ENTER on search field
+2015-15-04 17:11:47 ERROR main Web:test1:92 - Search result by ConsumerNumber is incorrect!
+2015-15-04 17:11:47 ERROR main Web:test1:98 - Search result by UniqueNumber is incorrect!
+2015-15-04 17:11:47 ERROR main Web:test1:104 - Search result by SIMNumber is incorrect!
+2015-15-04 17:11:47 ERROR main Web:test1:110 - Search by phone number was incorrect
+2015-15-04 17:11:50 ERROR main Web:test1:129 - Search by document number was incorrect!
+2015-15-04 17:11:54 ERROR main Web:test1:154 - Unique Contract Number is incorrect!
+2015-15-04 17:11:54 ERROR main Web:test1:160 - Contract Type is incorrect!
+2015-15-04 17:11:55  INFO main Web:test1:178 - User Logout was correct
+2015-15-04 17:16:20  INFO main Web:test1:52 - test-qa - was inputed into Login field
+2015-15-04 17:16:21  INFO main Web:test1:58 - 123456aA - was inputed into Password field
+2015-15-04 17:16:21  INFO main Web:test1:61 - User press ENTER
+2015-15-04 17:16:21  INFO main Web:test1:64 - Login was correct
+2015-15-04 17:16:22  INFO main Web:test1:77 - Enter in search field ConsumerNumber - 380632106446
+2015-15-04 17:16:22  INFO main Web:test1:79 - User press ENTER on search field
+2015-15-04 17:16:24 ERROR main Web:test1:93 - Search result by ConsumerNumber is incorrect!
+2015-15-04 17:16:25 ERROR main Web:test1:99 - Search result by UniqueNumber is incorrect!
+2015-15-04 17:16:25 ERROR main Web:test1:105 - Search result by SIMNumber is incorrect!
+2015-15-04 17:16:25 ERROR main Web:test1:111 - Search by phone number was incorrect!
+2015-15-04 17:16:28 ERROR main Web:test1:130 - Search by document number was incorrect!
+2015-15-04 17:16:32 ERROR main Web:test1:155 - Unique Contract Number is incorrect!
+2015-15-04 17:16:32 ERROR main Web:test1:161 - Contract Type is incorrect!
+2015-15-04 17:16:32  INFO main Web:test1:179 - User Logout was correct
+2015-15-04 17:55:19  INFO main Web:test1:67 - test-qa - was inputed into Login field
+2015-15-04 17:55:19  INFO main Web:test1:73 - 123456aA - was inputed into Password field
+2015-15-04 17:56:27  INFO main Web:test1:67 - test-qa - was inputed into Login field
+2015-15-04 17:56:27  INFO main Web:test1:73 - 123456aA - was inputed into Password field
+2015-15-04 17:56:27  INFO main Web:test1:76 - User press ENTER
+2015-15-04 17:56:28  INFO main Web:test1:79 - Login was correct
+2015-15-04 17:56:29  INFO main Web:test1:92 - Enter in search field ConsumerNumber - 380632106446
+2015-15-04 17:56:29  INFO main Web:test1:94 - User press ENTER on search field
+2015-15-04 17:56:30  INFO main Web:test1:106 - Search result: ConsumerNumber - 380632106446
+2015-15-04 17:56:31  INFO main Web:test1:112 - UniqueNumber - 57883 is correct
+2015-15-04 17:56:31  INFO main Web:test1:118 - SIMNumber - 89380062208130461969 is correct
+2015-15-04 17:56:31  INFO main Web:test1:124 - Search by phone number was correct
+2015-15-04 17:56:34  INFO main Web:test1:143 - Search by document number was correct
+2015-15-04 17:56:38  INFO main Web:test1:168 - Search result: Unique Contract Number - 15275
+2015-15-04 17:56:38  INFO main Web:test1:174 - Contract Type - Контрактний Індивідуальний
+2015-15-04 17:56:39  INFO main Web:test1:194 - User Logout was correct
