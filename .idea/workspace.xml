@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2e8e57e-7ed4-4f96-bc57-82656d52b957" name="Default" comment="" />
+    <list default="true" id="a2e8e57e-7ed4-4f96-bc57-82656d52b957" name="Default" comment="">
+      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\.idea\libraries\Maven__com_github_detro_ghostdriver_phantomjsdriver_1_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\.idea\libraries\Maven__io_netty_netty_3_5_5_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\.idea\libraries\Maven__junit_junit_4_11.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\.idea\libraries\Maven__org_apache_httpcomponents_httpclient_4_3_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\.idea\libraries\Maven__org_json_json_20080701.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_api_2_43_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_43_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_43_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_htmlunit_driver_2_43_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_ie_driver_2_43_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_java_2_43_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_remote_driver_2_43_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_safari_driver_2_43_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_support_2_43_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\.idea\libraries\Maven__org_webbitserver_webbit_0_4_15.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\ivandemarino.me.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\target\test-classes\com\iguanaNext\tests\Simple1Test.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\target\test-classes\com\iguanaNext\tests\Simple2Test.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\target\test-classes\com\iguanaNext\tests\SimpleTest.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\target\test-classes\lib\ConfigData.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\target\test-classes\lib\DataBaseData.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\target\test-classes\lib\Database.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\target\test-classes\lib\Iguana.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\target\test-classes\lib\ThumbnailGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\target\test-classes\lib\Util.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\target\test-classes\lib\Web.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\target\test-classes\log4j.properties" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\target\test-classes\pages\Loggin.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\target\test-classes\pages\MainPage.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IguanaNext.log" afterPath="$PROJECT_DIR$/IguanaNext.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/iguanaNext/tests/Simple1Test.java" afterPath="$PROJECT_DIR$/src/test/java/com/iguanaNext/tests/Simple1Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/lib/ThumbnailGenerator.java" afterPath="$PROJECT_DIR$/src/test/java/lib/ThumbnailGenerator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phantomjsdriver.log" afterPath="$PROJECT_DIR$/phantomjsdriver.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="IguanaNext.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="$USER_HOME$/Desktop/lol/.idea/workspace.xml" changelist="a2e8e57e-7ed4-4f96-bc57-82656d52b957" time="1429004122676" ignored="false" />
@@ -15,8 +51,8 @@
     <file path="/SimpleTest1.java" changelist="a2e8e57e-7ed4-4f96-bc57-82656d52b957" time="1429016451047" ignored="false" />
     <file path="/Simple2Test.java" changelist="a2e8e57e-7ed4-4f96-bc57-82656d52b957" time="1429023414590" ignored="false" />
     <file path="/fragment.java" changelist="a2e8e57e-7ed4-4f96-bc57-82656d52b957" time="1429088408016" ignored="false" />
-    <file path="/Dummy.txt" changelist="a2e8e57e-7ed4-4f96-bc57-82656d52b957" time="1429088408016" ignored="false" />
-    <file path="/Simple1Test.java" changelist="a2e8e57e-7ed4-4f96-bc57-82656d52b957" time="1429109689518" ignored="false" />
+    <file path="/Dummy.txt" changelist="a2e8e57e-7ed4-4f96-bc57-82656d52b957" time="1429185066794" ignored="false" />
+    <file path="/Simple1Test.java" changelist="a2e8e57e-7ed4-4f96-bc57-82656d52b957" time="1429184619782" ignored="false" />
     <file path="/log4j.properties" changelist="a2e8e57e-7ed4-4f96-bc57-82656d52b957" time="1429089837423" ignored="false" />
     <file path="/MainPage.java" changelist="a2e8e57e-7ed4-4f96-bc57-82656d52b957" time="1429096475188" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -81,73 +117,19 @@
       <file leaf-file-name="Simple1Test.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/iguanaNext/tests/Simple1Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="26" selection-start="1551" selection-end="1551" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="46" column="112" selection-start="1354" selection-end="1354" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ivandemarino.me.png" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ivandemarino.me.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ThumbnailGenerator.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ThumbnailGenerator.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/lib/ThumbnailGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="0" selection-start="936" selection-end="936" vertical-scroll-proportion="0.0">
+            <state line="14" column="39" selection-start="271" selection-end="271" vertical-scroll-proportion="0.17819707">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Web.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/lib/Web.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="174" column="99" selection-start="6041" selection-end="6128" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IguanaNext.log" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/IguanaNext.log">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="154" column="0" selection-start="12687" selection-end="12687" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConfigData.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/lib/ConfigData.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="0" selection-start="980" selection-end="980" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainPage.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pages/MainPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="106" column="0" selection-start="4517" selection-end="5009" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UIMapping.properties" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/UIMapping.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="88" selection-start="216" selection-end="262" vertical-scroll-proportion="0.0">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -155,7 +137,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="49" selection-start="1144" selection-end="1144" vertical-scroll-proportion="0.0">
+            <state line="14" column="89" selection-start="584" selection-end="584" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -168,10 +150,17 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/IguanaNext.iml" />
         <option value="$PROJECT_DIR$/src/test/java/lib/DataBaseData.java" />
         <option value="$PROJECT_DIR$/src/test/java/lib/Iguana.java" />
         <option value="$PROJECT_DIR$/src/test/java/lib/Util.java" />
@@ -186,6 +175,7 @@
         <option value="$PROJECT_DIR$/src/test/java/lib/ConfigData.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/MainPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/lib/ThumbnailGenerator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/iguanaNext/tests/Draft.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/iguanaNext/tests/Simple1Test.java" />
       </list>
     </option>
@@ -233,24 +223,6 @@
           <option name="myItemId" value="Plugins" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
         </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="surefire" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="selenium_iguanaNext" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Plugins" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
-        </PATH_ELEMENT>
       </PATH>
       <PATH>
         <PATH_ELEMENT>
@@ -274,7 +246,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -302,8 +274,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -341,6 +311,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IguanaNext" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IguanaNext" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -438,6 +430,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -448,6 +442,7 @@
     <property name="options.lastSelected" value="MavenSettings" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -455,9 +450,9 @@
     <property name="restartRequiresConfirmation" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RunManager" selected="TestNG.Simple1Test">
     <configuration default="false" name="SimpleTest" type="TestNG" factoryName="TestNG" temporary="true">
@@ -565,19 +560,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -604,6 +586,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -658,6 +653,24 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="a2e8e57e-7ed4-4f96-bc57-82656d52b957" name="Default" comment="" />
@@ -668,7 +681,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -684,11 +697,11 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32814237" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26894343" sideWeight="0.61290324" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.113127" sideWeight="0.5595106" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20010673" sideWeight="0.61290324" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38709676" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18569905" sideWeight="0.5595106" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.44048944" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -756,69 +769,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="35" selection-start="547" selection-end="547" vertical-scroll-proportion="0.3830156">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/io/FileInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="137" column="0" selection-start="4517" selection-end="4517" vertical-scroll-proportion="0.6863085">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Tools/apache-maven-3.2.5/com/opera/operadriver/1.5/operadriver-1.5.jar!/com/opera/core/systems/OperaWebElement.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="19" selection-start="1148" selection-end="1148" vertical-scroll-proportion="0.34951457">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Tools/apache-maven-3.2.5/org/seleniumhq/selenium/selenium-remote-driver/2.45.0/selenium-remote-driver-2.45.0.jar!/org/openqa/selenium/remote/RemoteWebElement.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="1433" selection-end="1433" vertical-scroll-proportion="0.21556886">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Tools/apache-maven-3.2.5/org/seleniumhq/selenium/selenium-api/2.45.0/selenium-api-2.45.0.jar!/org/openqa/selenium/WebElement.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="221" selection-end="221" vertical-scroll-proportion="0.12028302">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Tools/apache-maven-3.2.5/org/seleniumhq/selenium/selenium-htmlunit-driver/2.45.0/selenium-htmlunit-driver-2.45.0.jar!/org/openqa/selenium/htmlunit/HtmlUnitWebElement.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="1064" selection-end="1064" vertical-scroll-proportion="0.21556886">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="49" selection-start="1144" selection-end="1144" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IguanaNext.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="154" column="0" selection-start="12687" selection-end="12687" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phantomjsdriver.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="282" column="46" selection-start="62997" selection-end="62997" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/lib/ConfigData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="0" selection-start="980" selection-end="980" vertical-scroll-proportion="0.0">
@@ -826,48 +776,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/lib/Web.java">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/UIMapping.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="174" column="99" selection-start="6041" selection-end="6128" vertical-scroll-proportion="0.0">
+        <state line="2" column="11" selection-start="11" selection-end="22" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/Loggin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/iguanaNext/tests/Draft.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="126" column="0" selection-start="5895" selection-end="5895" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/iguanaNext/tests/SimpleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="13" selection-start="396" selection-end="396" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/MainPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="106" column="0" selection-start="4517" selection-end="5009" vertical-scroll-proportion="0.0">
+        <state line="104" column="61" selection-start="4398" selection-end="4398" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/UIMapping.properties">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="88" selection-start="216" selection-end="262" vertical-scroll-proportion="0.0">
+        <state line="14" column="89" selection-start="584" selection-end="584" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/iguanaNext/tests/Simple1Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="112" selection-start="1354" selection-end="1354" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Users/user/devmate/src/com/devmate/tests/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/lib/ThumbnailGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="936" selection-end="936" vertical-scroll-proportion="0.0">
+        <state line="14" column="39" selection-start="271" selection-end="271" vertical-scroll-proportion="0.17819707">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/iguanaNext/tests/Simple1Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="26" selection-start="1551" selection-end="1551" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ivandemarino.me.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
   </component>
