@@ -1,41 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2e8e57e-7ed4-4f96-bc57-82656d52b957" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\.idea\libraries\Maven__com_github_detro_ghostdriver_phantomjsdriver_1_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\.idea\libraries\Maven__io_netty_netty_3_5_5_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\.idea\libraries\Maven__junit_junit_4_11.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\.idea\libraries\Maven__org_apache_httpcomponents_httpclient_4_3_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\.idea\libraries\Maven__org_json_json_20080701.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_api_2_43_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_43_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_43_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_htmlunit_driver_2_43_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_ie_driver_2_43_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_java_2_43_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_remote_driver_2_43_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_safari_driver_2_43_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_support_2_43_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\.idea\libraries\Maven__org_webbitserver_webbit_0_4_15.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\ivandemarino.me.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\target\test-classes\com\iguanaNext\tests\Simple1Test.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\target\test-classes\com\iguanaNext\tests\Simple2Test.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\target\test-classes\com\iguanaNext\tests\SimpleTest.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\target\test-classes\lib\ConfigData.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\target\test-classes\lib\DataBaseData.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\target\test-classes\lib\Database.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\target\test-classes\lib\Iguana.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\target\test-classes\lib\ThumbnailGenerator.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\target\test-classes\lib\Util.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\target\test-classes\lib\Web.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\target\test-classes\log4j.properties" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\target\test-classes\pages\Loggin.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitProjects\IguanaNext\target\test-classes\pages\MainPage.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IguanaNext.log" afterPath="$PROJECT_DIR$/IguanaNext.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/iguanaNext/tests/Simple1Test.java" afterPath="$PROJECT_DIR$/src/test/java/com/iguanaNext/tests/Simple1Test.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/lib/ThumbnailGenerator.java" afterPath="$PROJECT_DIR$/src/test/java/lib/ThumbnailGenerator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phantomjsdriver.log" afterPath="$PROJECT_DIR$/phantomjsdriver.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="a2e8e57e-7ed4-4f96-bc57-82656d52b957" name="Default" comment="commit before push to astelitGit">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/iguanaNext/tests/Draft.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="IguanaNext.iws" />
@@ -51,7 +18,7 @@
     <file path="/SimpleTest1.java" changelist="a2e8e57e-7ed4-4f96-bc57-82656d52b957" time="1429016451047" ignored="false" />
     <file path="/Simple2Test.java" changelist="a2e8e57e-7ed4-4f96-bc57-82656d52b957" time="1429023414590" ignored="false" />
     <file path="/fragment.java" changelist="a2e8e57e-7ed4-4f96-bc57-82656d52b957" time="1429088408016" ignored="false" />
-    <file path="/Dummy.txt" changelist="a2e8e57e-7ed4-4f96-bc57-82656d52b957" time="1429185066794" ignored="false" />
+    <file path="/Dummy.txt" changelist="a2e8e57e-7ed4-4f96-bc57-82656d52b957" time="1429264547488" ignored="false" />
     <file path="/Simple1Test.java" changelist="a2e8e57e-7ed4-4f96-bc57-82656d52b957" time="1429184619782" ignored="false" />
     <file path="/log4j.properties" changelist="a2e8e57e-7ed4-4f96-bc57-82656d52b957" time="1429089837423" ignored="false" />
     <file path="/MainPage.java" changelist="a2e8e57e-7ed4-4f96-bc57-82656d52b957" time="1429096475188" ignored="false" />
@@ -123,13 +90,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ThumbnailGenerator.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ThumbnailGenerator.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/lib/ThumbnailGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="39" selection-start="271" selection-end="271" vertical-scroll-proportion="0.17819707">
+            <state line="14" column="39" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Draft.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/iguanaNext/tests/Draft.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="126" column="0" selection-start="5895" selection-end="5895" vertical-scroll-proportion="3.7978723">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -677,13 +653,18 @@
       <created>1429002846807</created>
       <updated>1429002846807</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit before push to astelitGit">
+      <created>1429264524854</created>
+      <updated>1429264524854</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32925472" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -697,11 +678,11 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32814237" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.113127" sideWeight="0.5595106" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.113127" sideWeight="0.67074525" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18569905" sideWeight="0.5595106" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.44048944" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18569905" sideWeight="0.67074525" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44048944" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -747,7 +728,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit before push to astelitGit" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -760,6 +741,7 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="commit before push to astelitGit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -786,13 +768,6 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/Loggin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="13" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/iguanaNext/tests/Draft.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="126" column="0" selection-start="5895" selection-end="5895" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -834,10 +809,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/lib/ThumbnailGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="39" selection-start="271" selection-end="271" vertical-scroll-proportion="0.17819707">
+        <state line="14" column="39" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/iguanaNext/tests/Draft.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="126" column="0" selection-start="5895" selection-end="5895" vertical-scroll-proportion="3.7978723">
+          <folding />
         </state>
       </provider>
     </entry>
