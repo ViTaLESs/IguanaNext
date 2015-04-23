@@ -55,7 +55,7 @@ public class Simple1Test {
         tg.setBackgroundColor("#fff");
 
         try {
-            tg.saveThumbnail("login.png");
+            tg.saveThumbnail("screens/login.png");
         } catch (IOException ioe) {
             Web.log.info("It was not possible make a login screenshot");
         }
@@ -63,7 +63,7 @@ public class Simple1Test {
         //login to the system
         iguana.loggin.enterToSystem("test-qa", "123456aA");
         try {
-            tg.saveThumbnail("mainPage.png");
+            tg.saveThumbnail("screens/mainPage.png");
         } catch (IOException ioe) {
             Web.log.info("It was not possible make a screenshot");
         }
@@ -71,7 +71,7 @@ public class Simple1Test {
         //Поиск по номеру телефона 380632106446
         iguana.mainPage.searchByPhoneNumber();
         try {
-            tg.saveThumbnail("searchByPhoneNumber.png");
+            tg.saveThumbnail("screens/searchByPhoneNumber.png");
         } catch (IOException ioe) {
             Web.log.info("It was not possible make a searchByPhoneNumber screenshot");
         }
@@ -79,7 +79,7 @@ public class Simple1Test {
         //Поиск по номеру документа BB123456
         iguana.mainPage.searchByDocumentNumber();
         try {
-            tg.saveThumbnail("searchByDocumentNumber.png");
+            tg.saveThumbnail("screens/searchByDocumentNumber.png");
         } catch (IOException ioe) {
             Web.log.info("It was not possible make a searchByDocumentNumber screenshot");
         }
@@ -87,7 +87,7 @@ public class Simple1Test {
         //Поиск по номеру контракта 300005289
         iguana.mainPage.searchByContractNumber();
         try {
-            tg.saveThumbnail("searchByContractNumber.png");
+            tg.saveThumbnail("screens/searchByContractNumber.png");
         } catch (IOException ioe) {
             Web.log.info("It was not possible make a searchByContractNumber screenshot");
         }
@@ -95,7 +95,7 @@ public class Simple1Test {
         //logout
         iguana.mainPage.logout();
         try {
-            tg.saveThumbnail("logout.png");
+            tg.saveThumbnail("screens/logout.png");
         } catch (IOException ioe) {
             Web.log.info("It was not possible make a logout screenshot");
         }
